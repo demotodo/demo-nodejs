@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>socket.io example</title>
+</head>
+<body>
+<form method="post" action="/" id="send-message-form">
+    <input type="text" name="message-field" id="message-field">
+    <input type="submit" value="Send">
+</form>
+
+<h2>Messages sent from browser</h2>
+<div id="messages-sent"></div>
+
+<h2>Messages received from server</h2>
+<div id="messages-received"></div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="socketIOClientExample.js"></script>
+</body>
+</html>
