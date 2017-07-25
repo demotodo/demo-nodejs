@@ -1,0 +1,14 @@
+{
+  "name": "demo-setup-nodejs",
+  "version": "1.0.0",
+  "description": "demo setup nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bribin",
+  "license": "ISC",
+  "dependencies": {
+    "thunkify": "^2.1.2"
+  }
+}
