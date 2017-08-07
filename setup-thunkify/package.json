@@ -1,12 +1,16 @@
 {
-  "name": "demo-setup-nodejs",
+  "name": "demo-setup-thunkify",
   "version": "1.0.0",
-  "description": "demo setup nodejs",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bribin",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "co": "^4.6.0",
+    "fs": "0.0.1-security",
+    "thunkify": "^2.1.2"
+  }
 }

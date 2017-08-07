@@ -1,12 +1,11 @@
 {
-  "name": "demo-setup-nodejs",
+  "name": "http-sample",
   "version": "1.0.0",
-  "description": "demo setup nodejs",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bribin",
-  "license": "ISC",
-  "dependencies": {}
+  "license": "ISC"
 }
