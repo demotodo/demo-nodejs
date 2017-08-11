@@ -1,12 +1,20 @@
 {
-  "name": "basic-example",
+  "name": "demo-nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demotodo/demo-nodejs.git"
+  },
   "keywords": [],
   "author": "Bribin",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demotodo/demo-nodejs/issues"
+  },
+  "homepage": "https://github.com/demotodo/demo-nodejs#readme"
 }
